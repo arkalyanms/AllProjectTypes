@@ -1,0 +1,5 @@
+C:/repos/AllProjectTypes/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/repos/AllProjectTypes/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/repos/AllProjectTypes/out/build/x64-Debug (default)/CMakeProject/CMakeFiles/rebuild_cache.dir
+C:/repos/AllProjectTypes/out/build/x64-Debug (default)/CMakeProject/CMakeFiles/CMakeProject.dir
+C:/repos/AllProjectTypes/out/build/x64-Debug (default)/CMakeProject/CMakeFiles/edit_cache.dir
